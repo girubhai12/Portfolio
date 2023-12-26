@@ -1,0 +1,11 @@
+.jo{
+    display:flex;
+    font-size: 25px;
+    background-color: transparent;
+    font-weight: 500;
+    z-index: -45;
+    text-overflow: ellipsis;
+    text-shadow: 2cap;
+    text-decoration-line: underline;
+    /* Other flex properties can be added here */
+  }
